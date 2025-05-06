@@ -1,1 +1,2 @@
-# Optimasi Model Prediksi Harga Saham BBNI Menggunakan SVR dengan Tuning Hyperparameter
+# Optimasi Model Prediksi Harga Saham PT Bank Negara Indonesia (Persero) Tbk Menggunakan SVR dengan Tuning Hyperparameter
+
