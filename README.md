@@ -22,3 +22,6 @@ Model awal SVR menunjukkan performa yang rendah dengan R² negatif. Setelah dila
 - R²: 0.9969
 
 Hal ini menunjukkan bahwa tuning hyperparameter sangat penting dalam meningkatkan akurasi model SVR untuk prediksi harga saham.
+
+## Kesimpulan 
+Penelitian ini berhasil membangun dan mengoptimalkan model prediksi harga saham PT Bank Negara Indonesia Tbk menggunakan metode Support Vector Regression (SVR). Tuning hyperparameter terbukti dapat meningkatkan performa model secara signifikan. Temuan ini dapat menjadi dasar bagi pengembangan sistem prediksi harga saham berbasis machine learning di Indonesia.
