@@ -7,6 +7,9 @@ Support Vector Regression (SVR) merupakan salah satu metode machine learning yan
 ## Sumber Data
 Data diperoleh dari situs Kaggle melalui tautan https://www.kaggle.com/datasets/caesarmario/bank-negara-indonesia-stock-historical-price. 
 
+### Informasi Data
+Dataset ini berisi data historis harga saham PT Bank Negara Indonesia (Persero) Tbk (kode saham: BBNI.JK) yang diambil dari situs Yahoo Finance, mencakup periode dari Januari 2019 hingga saat ini. Dataset ini disediakan untuk komunitas Kaggle dengan tujuan mendukung berbagai aktivitas analisis data dan penerapan model machine learning, seperti peramalan harga saham setelah Januari 2019 serta pembuatan visualisasi data historis. Perlu diketahui bahwa penyedia data hanya bertindak sebagai pihak yang membagikan informasi harga saham historis ini tanpa afiliasi resmi dengan perusahaan terkait. Dataset ini mulai dipublikasikan pada 4 Januari 2024 dan diperbarui secara otomatis menggunakan fitur penjadwalan di platform Kaggle.
+
 ## Modeling dan Evaluasi
 1. Model SVR dilatih dengan data latih (train set).
 2. Evaluasi awal dilakukan menggunakan MAE, RMSE, dan R².
